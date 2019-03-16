@@ -1,0 +1,8 @@
+C:\webbanhang\ELBeoShop.test\bin\Debug\ELBeoShop.test.dll
+C:\webbanhang\ELBeoShop.test\bin\Debug\ELBeoShop.test.pdb
+C:\webbanhang\ELBeoShop.test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\webbanhang\ELBeoShop.test\obj\Debug\ELBeoShop.test.csprojAssemblyReference.cache
+C:\webbanhang\ELBeoShop.test\obj\Debug\ELBeoShop.test.csproj.CoreCompileInputs.cache
+C:\webbanhang\ELBeoShop.test\obj\Debug\ELBeoShop.test.csproj.CopyComplete
+C:\webbanhang\ELBeoShop.test\obj\Debug\ELBeoShop.test.dll
+C:\webbanhang\ELBeoShop.test\obj\Debug\ELBeoShop.test.pdb

@@ -1,0 +1,159 @@
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\roslyn\csc.exe
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\roslyn\vbc.exe
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\roslyn\VBCSCompiler.exe
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\ELBeoShop.web.dll.config
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\ELBeoShop.web.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\ELBeoShop.web.pdb
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\Antlr3.Runtime.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\Newtonsoft.Json.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Net.Http.Formatting.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.Helpers.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.Http.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.Http.WebHost.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.Mvc.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.Optimization.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.Razor.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.Deployment.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.Razor.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\WebGrease.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.Helpers.xml
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.Mvc.xml
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.Optimization.xml
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.Razor.xml
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.xml
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.Deployment.xml
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.Razor.xml
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\Antlr3.Runtime.pdb
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\Newtonsoft.Json.xml
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Net.Http.Formatting.xml
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.Http.xml
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\bin\System.Web.Http.WebHost.xml
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.pdb
+C:\Users\MrBuggy\Documents\Visual Studio 2015\Projects\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.csprojAssemblyReference.cache
+C:\Users\MrBuggy\Documents\Visual Studio 2015\Projects\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.csproj.CoreCompileInputs.cache
+C:\Users\MrBuggy\Documents\Visual Studio 2015\Projects\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.csproj.CopyComplete
+D:\webbanhang\ELBeoShop.web\bin\roslyn\csc.exe
+D:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\webbanhang\ELBeoShop.web\bin\roslyn\System.Collections.Immutable.dll
+D:\webbanhang\ELBeoShop.web\bin\roslyn\System.Reflection.Metadata.dll
+D:\webbanhang\ELBeoShop.web\bin\roslyn\vbc.exe
+D:\webbanhang\ELBeoShop.web\bin\roslyn\VBCSCompiler.exe
+D:\webbanhang\ELBeoShop.web\bin\roslyn\VBCSCompiler.exe.config
+D:\webbanhang\ELBeoShop.web\bin\ELBeoShop.web.dll.config
+D:\webbanhang\ELBeoShop.web\bin\ELBeoShop.web.dll
+D:\webbanhang\ELBeoShop.web\bin\ELBeoShop.web.pdb
+D:\webbanhang\ELBeoShop.web\bin\Antlr3.Runtime.dll
+D:\webbanhang\ELBeoShop.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\webbanhang\ELBeoShop.web\bin\Microsoft.Web.Infrastructure.dll
+D:\webbanhang\ELBeoShop.web\bin\Newtonsoft.Json.dll
+D:\webbanhang\ELBeoShop.web\bin\System.Net.Http.Formatting.dll
+D:\webbanhang\ELBeoShop.web\bin\System.Web.Helpers.dll
+D:\webbanhang\ELBeoShop.web\bin\System.Web.Http.dll
+D:\webbanhang\ELBeoShop.web\bin\System.Web.Http.WebHost.dll
+D:\webbanhang\ELBeoShop.web\bin\System.Web.Mvc.dll
+D:\webbanhang\ELBeoShop.web\bin\System.Web.Optimization.dll
+D:\webbanhang\ELBeoShop.web\bin\System.Web.Razor.dll
+D:\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.Deployment.dll
+D:\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.dll
+D:\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.Razor.dll
+D:\webbanhang\ELBeoShop.web\bin\WebGrease.dll
+D:\webbanhang\ELBeoShop.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\webbanhang\ELBeoShop.web\bin\System.Web.Helpers.xml
+D:\webbanhang\ELBeoShop.web\bin\System.Web.Mvc.xml
+D:\webbanhang\ELBeoShop.web\bin\System.Web.Optimization.xml
+D:\webbanhang\ELBeoShop.web\bin\System.Web.Razor.xml
+D:\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.xml
+D:\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.Deployment.xml
+D:\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.Razor.xml
+D:\webbanhang\ELBeoShop.web\bin\Antlr3.Runtime.pdb
+D:\webbanhang\ELBeoShop.web\bin\Newtonsoft.Json.xml
+D:\webbanhang\ELBeoShop.web\bin\System.Net.Http.Formatting.xml
+D:\webbanhang\ELBeoShop.web\bin\System.Web.Http.xml
+D:\webbanhang\ELBeoShop.web\bin\System.Web.Http.WebHost.xml
+D:\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.csprojAssemblyReference.cache
+D:\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.csproj.CoreCompileInputs.cache
+D:\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.csproj.CopyComplete
+D:\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.dll
+D:\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.pdb
+C:\webbanhang\ELBeoShop.web\bin\roslyn\csc.exe
+C:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\webbanhang\ELBeoShop.web\bin\roslyn\System.Collections.Immutable.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\System.Reflection.Metadata.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\vbc.exe
+C:\webbanhang\ELBeoShop.web\bin\roslyn\VBCSCompiler.exe
+C:\webbanhang\ELBeoShop.web\bin\roslyn\VBCSCompiler.exe.config
+C:\webbanhang\ELBeoShop.web\bin\ELBeoShop.web.dll.config
+C:\webbanhang\ELBeoShop.web\bin\ELBeoShop.web.dll
+C:\webbanhang\ELBeoShop.web\bin\ELBeoShop.web.pdb
+C:\webbanhang\ELBeoShop.web\bin\Antlr3.Runtime.dll
+C:\webbanhang\ELBeoShop.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\webbanhang\ELBeoShop.web\bin\Microsoft.Web.Infrastructure.dll
+C:\webbanhang\ELBeoShop.web\bin\Newtonsoft.Json.dll
+C:\webbanhang\ELBeoShop.web\bin\System.Net.Http.Formatting.dll
+C:\webbanhang\ELBeoShop.web\bin\System.Web.Helpers.dll
+C:\webbanhang\ELBeoShop.web\bin\System.Web.Http.dll
+C:\webbanhang\ELBeoShop.web\bin\System.Web.Http.WebHost.dll
+C:\webbanhang\ELBeoShop.web\bin\System.Web.Mvc.dll
+C:\webbanhang\ELBeoShop.web\bin\System.Web.Optimization.dll
+C:\webbanhang\ELBeoShop.web\bin\System.Web.Razor.dll
+C:\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.Deployment.dll
+C:\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.dll
+C:\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.Razor.dll
+C:\webbanhang\ELBeoShop.web\bin\WebGrease.dll
+C:\webbanhang\ELBeoShop.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\webbanhang\ELBeoShop.web\bin\System.Web.Helpers.xml
+C:\webbanhang\ELBeoShop.web\bin\System.Web.Mvc.xml
+C:\webbanhang\ELBeoShop.web\bin\System.Web.Optimization.xml
+C:\webbanhang\ELBeoShop.web\bin\System.Web.Razor.xml
+C:\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.xml
+C:\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.Deployment.xml
+C:\webbanhang\ELBeoShop.web\bin\System.Web.WebPages.Razor.xml
+C:\webbanhang\ELBeoShop.web\bin\Antlr3.Runtime.pdb
+C:\webbanhang\ELBeoShop.web\bin\Newtonsoft.Json.xml
+C:\webbanhang\ELBeoShop.web\bin\System.Net.Http.Formatting.xml
+C:\webbanhang\ELBeoShop.web\bin\System.Web.Http.xml
+C:\webbanhang\ELBeoShop.web\bin\System.Web.Http.WebHost.xml
+C:\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.csprojAssemblyReference.cache
+C:\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.csproj.CoreCompileInputs.cache
+C:\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.csproj.CopyComplete
+C:\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.dll
+C:\webbanhang\ELBeoShop.web\obj\Debug\ELBeoShop.web.pdb
+C:\webbanhang\ELBeoShop.web\bin\roslyn\csc.exe.config
+C:\webbanhang\ELBeoShop.web\bin\roslyn\csc.rsp
+C:\webbanhang\ELBeoShop.web\bin\roslyn\csi.exe
+C:\webbanhang\ELBeoShop.web\bin\roslyn\csi.rsp
+C:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\System.AppContext.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\System.IO.FileSystem.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\webbanhang\ELBeoShop.web\bin\roslyn\vbc.exe.config
+C:\webbanhang\ELBeoShop.web\bin\roslyn\vbc.rsp
+C:\webbanhang\ELBeoShop.web\bin\Newtonsoft.Json.pdb

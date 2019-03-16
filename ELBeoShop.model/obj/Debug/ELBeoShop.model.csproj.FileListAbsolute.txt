@@ -1,0 +1,20 @@
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.model\bin\Debug\ELBeoShop.model.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.model\bin\Debug\ELBeoShop.model.pdb
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.model\obj\Debug\ELBeoShop.model.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.model\obj\Debug\ELBeoShop.model.pdb
+C:\webbanhang\ELBeoShop.model\bin\Debug\ELBeoShop.model.dll.config
+C:\webbanhang\ELBeoShop.model\bin\Debug\ELBeoShop.model.dll
+C:\webbanhang\ELBeoShop.model\bin\Debug\ELBeoShop.model.pdb
+C:\webbanhang\ELBeoShop.model\obj\Debug\ELBeoShop.model.csproj.CoreCompileInputs.cache
+C:\webbanhang\ELBeoShop.model\obj\Debug\ELBeoShop.model.dll
+C:\webbanhang\ELBeoShop.model\obj\Debug\ELBeoShop.model.pdb
+C:\webbanhang\ELBeoShop.model\obj\Debug\ELBeoShop.model.csprojAssemblyReference.cache
+C:\webbanhang\ELBeoShop.model\bin\Debug\EntityFramework.dll
+C:\webbanhang\ELBeoShop.model\bin\Debug\EntityFramework.SqlServer.dll
+C:\webbanhang\ELBeoShop.model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\webbanhang\ELBeoShop.model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\webbanhang\ELBeoShop.model\bin\Debug\EntityFramework.xml
+C:\webbanhang\ELBeoShop.model\bin\Debug\EntityFramework.SqlServer.xml
+C:\webbanhang\ELBeoShop.model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\webbanhang\ELBeoShop.model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\webbanhang\ELBeoShop.model\obj\Debug\ELBeoShop.model.csproj.CopyComplete

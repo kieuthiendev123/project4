@@ -1,0 +1,10 @@
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.Common\bin\Debug\ELBeoShop.Common.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.Common\bin\Debug\ELBeoShop.Common.pdb
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.Common\obj\Debug\ELBeoShop.Common.csprojResolveAssemblyReference.cache
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.Common\obj\Debug\ELBeoShop.Common.dll
+c:\users\mrbuggy\documents\visual studio 2015\Projects\webbanhang\ELBeoShop.Common\obj\Debug\ELBeoShop.Common.pdb
+C:\webbanhang\ELBeoShop.Common\bin\Debug\ELBeoShop.Common.dll
+C:\webbanhang\ELBeoShop.Common\bin\Debug\ELBeoShop.Common.pdb
+C:\webbanhang\ELBeoShop.Common\obj\Debug\ELBeoShop.Common.csproj.CoreCompileInputs.cache
+C:\webbanhang\ELBeoShop.Common\obj\Debug\ELBeoShop.Common.dll
+C:\webbanhang\ELBeoShop.Common\obj\Debug\ELBeoShop.Common.pdb

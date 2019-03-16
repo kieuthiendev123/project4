@@ -1,0 +1,6 @@
+C:\webbanhang\ELBeoShop.service\bin\Debug\ELBeoShop.service.dll
+C:\webbanhang\ELBeoShop.service\bin\Debug\ELBeoShop.service.pdb
+C:\webbanhang\ELBeoShop.service\obj\Debug\ELBeoShop.service.csprojAssemblyReference.cache
+C:\webbanhang\ELBeoShop.service\obj\Debug\ELBeoShop.service.csproj.CoreCompileInputs.cache
+C:\webbanhang\ELBeoShop.service\obj\Debug\ELBeoShop.service.dll
+C:\webbanhang\ELBeoShop.service\obj\Debug\ELBeoShop.service.pdb
